@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Title</key>
+		<string>Created by</string>
+		<key>Content</key>
+		<string>Tianxiang Zhang</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Inspired by</string>
+		<key>Content</key>
+		<string>Despicable Me, Universal Studios</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Contact</string>
+		<key>Content</key>
+		<string>cenhiangapply@gmail.com</string>
+	</dict>
+</array>
+</plist>
